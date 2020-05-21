@@ -1,0 +1,16 @@
+{
+    "name": "xavir/template-method-pattern",
+    "description": "This is a implementatation of Template Method Pattern",
+    "authors": [
+        {
+            "name": "xavir",
+            "email": "xaviranik.me@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+    		"App\\" : "src/"
+    	}
+    }
+}
