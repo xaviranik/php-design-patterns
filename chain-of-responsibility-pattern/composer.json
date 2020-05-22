@@ -1,0 +1,13 @@
+{
+    "name": "xavir/chain-of-responsibility-pattern",
+    "authors": [{
+        "name": "xavir",
+        "email": "xaviranik.me@gmail.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
